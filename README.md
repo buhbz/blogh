@@ -8,6 +8,7 @@ Blogh is a lighweight cross-platform keyboard diagnostic tool created for educat
 * demonstrates immediate keyboard input
 
 **Purpose**
+
 Blogh a learning tool which demonstrates the workings of real-time keyboard input across platforms.
 It provides a foundation for:
 * Code or Text editors
