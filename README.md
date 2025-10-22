@@ -17,5 +17,5 @@ It provides a foundation for:
 * Terminal interfaces
 
 **IMPORTANT** 
-* Blogh is fot **focused terminal use only.**
+* Blogh is for **focused terminal use only.**
 * No input is stored or logged
