@@ -4,7 +4,7 @@ Blogh is a lighweight cross-platform keyboard diagnostic tool created for educat
 **Features**
 * Works on windows (using _getch() ) and Unix systems (using raw terminal mode)
 * prints ASCII codes and corresponding characters directly to the terminal - no external file logging
-* Clean "`" key exit
+* Clean " ` " key exit
 * demonstrates immediate keyboard input
 
 **Purpose**
