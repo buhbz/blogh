@@ -2,14 +2,14 @@
 Blogh is a lighweight cross-platform keyboard diagnostic tool created for educational purposes only. 
 
 **Features**
-* Works on windows (using _getch() ) and Unix systems (using raw terminal mode)
+* Works on windows ( using _getch() ) and Unix systems (using raw terminal mode)
 * prints ASCII codes and corresponding characters directly to the terminal - no external file logging
 * Clean " ` " key exit
 * demonstrates immediate keyboard input
 
 **Purpose**
 
-Blogh a learning tool which demonstrates the workings of real-time keyboard input across platforms.
+Blogh is a learning tool which demonstrates the workings of real-time keyboard input across platforms.
 It provides a foundation for:
 * Code or Text editors
 * Debugging & diagnostic tools
